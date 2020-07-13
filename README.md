@@ -4,7 +4,7 @@ Data Science Portfolio
 # 1.Python Projects
 
  
- ## [Project 1: Spam SMS Classification with deployment](https://github.com/kevin-v-kurian/Natural-Language-Processing-Projects)
+## [Project 1: Spam SMS Classification with deployment](https://github.com/kevin-v-kurian/Natural-Language-Processing-Projects)
 
   Solved a NLP problem to classify smas as spam or not using NLTK library and deployed a Machine Learning web app for it created with Flask on Heroku. <https://spam-sms-finder.herokuapp.com/>
 
@@ -12,7 +12,7 @@ Data Science Portfolio
 
 
 
- ## [Project 2:Credit Card Default(PGP Capstone Project)](https://github.com/kevin-v-kurian/Capstone-Project-Credit-Card-Default)
+## [Project 2:Credit Card Default(PGP Capstone Project)](https://github.com/kevin-v-kurian/Capstone-Project-Credit-Card-Default)
   Analyzed credit card data collected from Taiwan-based credit card issuer and used various machine learning models to predict whether or not a consumer will default on their credit cards, as well as identify the key drivers behind this. This would inform the issuer’s decisions on who to give a credit card.
 
 
